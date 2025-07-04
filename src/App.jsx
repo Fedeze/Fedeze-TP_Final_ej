@@ -19,7 +19,7 @@ function App() {
 					element={<HomeScreen/>} 
 				/>
 				<Route 
-					path='/contacts'
+					path='/'
 					element={<ContactScreen/>}
 				/>
 				<Route
